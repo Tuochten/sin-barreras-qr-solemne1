@@ -1,0 +1,7 @@
+# Nunca publicar datos de personas ni el programa
+*.csv
+*.json
+*.py
+salida/
+datos/
+__pycache__/
